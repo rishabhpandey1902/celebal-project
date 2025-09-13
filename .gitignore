@@ -1,0 +1,5 @@
+# Main project .gitignore
+node_modules/
+.env
+.vscode/
+.github/
